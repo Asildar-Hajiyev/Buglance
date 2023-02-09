@@ -1,68 +1,47 @@
-            * {
-                padding: 2px;
-            }
-            
-            body {}
-            
-            .button1 {
-                height: 50px;
-                width: 100px;
-                background-color: #0094F1;
-                color: azure;
-                border-radius: 8px;
-                border: 0px solid;
-            }
-            
-            .green {
-                color: green;
-            }
-            
-            input {
-                width: 200px;
-            }
-            
-            a {
-                text-decoration: none;
-            }
-            
-            .id1 {}
-            
-            .id2 {}
-            
-            .id3 {}
-            
-            .id4 {
-                height: 150px;
-                width: auto;
-                background-color: bisque;
-                text-align: center;
-            }
-            
-            .fiqur1 {
-                width: 400px;
-                height: 350px;
-                float: left;
-            }
-            
-            .fiqur img {
-                width: 300px;
-            }
-            
-            nav {
-                display: flex;
-            }
-            
-            ul {
-                list-style-type: none;
-            }
-            
-            li {
-                float: left;
-                background-color: white;
-            }
-            
-            li a {
-                text-align: center;
-                color: black;
-                padding: 12px 14px;
-            }
+        * {
+            padding: 2px;
+        }
+        
+        body {}
+        
+        .green {
+            color: green;
+        }
+        
+        input {
+            width: 200px;
+        }
+        
+        a {
+            text-decoration: none;
+        }
+        
+        .id4 {
+            height: 150px;
+            width: auto;
+            background-color: bisque;
+            text-align: center;
+        }
+        
+        .fiqur img {
+            width: 300px;
+        }
+        
+        nav {
+            display: flex;
+        }
+        
+        ul {
+            list-style-type: none;
+        }
+        
+        li {
+            float: left;
+            background-color: white;
+        }
+        
+        li a {
+            text-align: center;
+            color: black;
+            padding: 12px 14px;
+        }
